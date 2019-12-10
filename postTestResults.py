@@ -1,3 +1,4 @@
+# this is used to post the results to the remote web server
 #!/usr/bin/python -tt
 
 import urllib
@@ -5,7 +6,7 @@ import urllib2
 import wddx
 
 import ConfigParser
-url="http://nmsapp00.federated.fds/netops/ws/netops2.cfc?wsdl"
+url="<enter_ssid>"
 callmethod="postdronewifiresult"
 
 class postResultsData:

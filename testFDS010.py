@@ -15,7 +15,7 @@ cmd2 = "/usr/share/drone/scripts/ethdown.sh"
 cmd3 = "/usr/share/drone/scripts/networknormal.sh"
 
 url = "http://www.google.com"
-url2 = "http://mt000xsweb10"
+url2 = "http://www.bing.com"
 url3 = "http://www.cnn.com"
 
 
